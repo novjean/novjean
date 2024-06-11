@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## About Me
 
-- 🔭 I’m currently working on **[BLoC](https://github.com/novjean/bloc)**, a multi-platform flutter app for the nightlife industry.
+- 🔭 I’m currently working on **[bloc](https://github.com/novjean/bloc)**, a multi-platform flutter app for the event industry.
 - 🌱 I’m currently learning **Advanced Flutter and Android development techniques**.
 - 👯 I’m looking to collaborate on **open-source Flutter and Android projects**.
 - 💬 Ask me about **Flutter, Dart, Android development, and state management with BLoC**.
