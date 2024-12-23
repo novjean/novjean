@@ -34,7 +34,8 @@ A multi-platform Flutter application for web, iOS, and Android, featuring a role
 
 ## Other Projects
 
-- [Nova News](https://github.com/novjean/nova-news) - A cross-platform news app built with Flutter.
+- [Pixabay Photo Viewer](https://github.com/novjean/PixabayPhotoViewer) - Pixabay Photo Viewer built using Kotlin and with Clean Architecture for Android. 
+- [Nova News](https://github.com/novjean/nova_news) - A cross-platform news app built with Flutter.
 - [Buddy Bank](https://github.com/novjean/buddy-bank) - A contacts manager built using Kotlin for Android. 
 
 ## Blog Posts
